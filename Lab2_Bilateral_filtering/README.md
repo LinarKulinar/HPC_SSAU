@@ -7,7 +7,9 @@
 <tr><th>size image, px</th><th>CPU time, s</th><th>GPU time, s</th><th>Acceleration</th></tr>
 </thead>
 <tbody>
-<tr><td>201*300=60300</td><td> 1.9320</td><td>0.0057</td><td>338.5331</td></tr>
+<tr><td>201*300=60300</td><td> 1.9320</td><td> 0.0057</td><td> 338.5331</td></tr>
+<tr><td>334*500=167000</td><td> 17.807646</td><td> 0.00906</td><td> 1963.425803</td></tr>
+<tr><td>667*1000=667000</td><td> 66.6945</td><td >0.0105929</td><td> 6296.1316</td></tr>
 </tbody>
 </table>
 
