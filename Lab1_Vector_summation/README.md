@@ -7,7 +7,8 @@
 <tr><th>Size</th><th>CPU time</th><th>GPU time</th><th>Acceleration</th></tr>
 </thead>
 <tbody>
-<tr><td>100000</td><td> 0.0009</td><td>0.0105</td><td>11.7236</td></tr>
+<tr><td>10^5=100000</td><td> 0.0009</td><td> 0.0105</td><td> 11.7236</td></tr>
+<tr><td>10^8=100000000</td><td> 48.3547</td><td>0.5042</td><td>95.903</td></tr>
 </tbody>
 </table>
 
